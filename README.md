@@ -1,3 +1,5 @@
+A Weather Web Application that utilizes the OpenWeatherMap's API to return current weather information for a given location.
+
 Simple web application written with
 
    1.Javascript
