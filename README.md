@@ -1,4 +1,4 @@
-A Weather Web Application that utilizes the OpenWeatherMap's API to return current weather information for a given location.
+A Weather Web Application that utilizes the [OpenWeatherMap's API](https://openweathermap.org/) to return current weather information for a given location.
 
 Simple web application written with
 
